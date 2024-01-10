@@ -1,3 +1,5 @@
+![Relative date](https://img.shields.io/date/1713294900?style=flat-square&label=class%20end%20date)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/averwhy/CS255?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/averwhy/CS255?color=3572a5&style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/averwhy/CS255?style=flat-square)
